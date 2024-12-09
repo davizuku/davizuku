@@ -23,7 +23,8 @@
 
 <table align="left" width="100%" >
     <tr border="none">
-        <td width="25%" align="center">
+        <td width="33%" align="center" style="position:absolute">
+            <h3>oregex</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/oregex" target="blank" title="Go to source">
                     <img src="https://github.com/davizuku/oregex/blob/master/img/semi-oregex-1.png" alt="oregex-icon"/> 
@@ -33,7 +34,8 @@
                 <a href="https://github.com/davizuku/oregex" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="oregex" /></a>
             </p>       
         </td>
-        <td width="25%" align="center">
+        <td width="33%" align="center">
+            <h3><a href="https://github.com/davizuku/figonacci-phpactorial">figonacci-phpactorial</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank" title="Go to source">
                 <img src="https://raw.githubusercontent.com/davizuku/figonacci-phpactorial/master/img/scenarios.png" alt="figonacci-phpactorial"/> 
@@ -45,7 +47,8 @@
                 </a>
             </p>       
         </td>
-        <td width="25%" align="center">
+        <td width="33%" align="center">
+            <h3><a href="https://pingtranet.vercel.app/">pingtranet</a></h3>
             <p align="center">
                 <a href="https://pingtranet.vercel.app/" target="blank" title="Go to source">
                     <img src="https://pingtranet.vercel.app/img/logo-pingtranet.png" alt="pingbot"/> 
@@ -57,7 +60,10 @@
                 </a>
             </p>       
         </td>
-        <td width="25%" align="center">
+    </tr>
+    <tr border="none">
+        <td width="33%" align="center">
+            <h3><a href="https://github.com/davizuku/bcn.gps.art">bcn.gps.art</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/bcn.gps.art" target="blank" title="Go to source">
                     <img src="https://github.com/davizuku/bcn.gps.art/blob/main/assets/img/icon.png?raw=true" alt="bcn.gps.art-icon"/> 
@@ -66,6 +72,32 @@
             <p align="center">
                 <a href="https://github.com/davizuku/bcn.gps.art" target="blank" title="Go to source">
                     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="bcn.gps.art" />
+                </a>
+            </p>       
+        </td>
+        <td width="33%" align="center">
+            <h3><a href="https://github.com/davizuku/family-tree">family-tree</a></h3>
+            <p align="center">
+                <a href="https://github.com/davizuku/family-tree" target="blank" title="Go to source">
+                    <img src="https://github.com/user-attachments/assets/eda9f299-b1ec-4d10-b51e-f00127e5283f" alt="family-tree"/> 
+                </a>
+            </p>
+            <p align="center">
+                <a href="https://github.com/davizuku/family-tree" target="blank" title="Go to source">
+                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="family-tree" />
+                </a>
+            </p>       
+        </td>
+        <td width="33%" align="center">
+            <h3><a href="https://github.com/davizuku/marc_in_da_house">marc_in_da_house</a></h3>
+            <p align="center">
+                <a href="https://github.com/davizuku/marc_in_da_house" target="blank" title="Go to source">
+                    <img src="https://github.com/davizuku/marc_in_da_house/raw/master/res/initial-plan.jpeg" alt="marc in da house"/> 
+                </a>
+            </p>
+            <p align="center">
+                <a href="https://github.com/davizuku/marc_in_da_house" target="blank" title="Go to source">
+                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="marc in da house" />
                 </a>
             </p>       
         </td>
