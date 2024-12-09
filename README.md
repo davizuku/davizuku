@@ -31,12 +31,12 @@
     <h3> 📋 Personal Projects </h3>
     <table width="100%" >
         <tr border="none">
-        <td width="33%" align="center">
+        <td width="50%" align="center">
             <h3><a href="https://github.com/davizuku/oregex" target="blank">oregex</a></h3>
             <p align="center"><a href="https://github.com/davizuku/oregex" target="blank" title="Go to source"><img src="https://github.com/davizuku/oregex/blob/master/img/semi-oregex-1.png" alt="oregex-icon"/> </a></p>
             <p align="center"><a href="https://github.com/davizuku/oregex" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="oregex" /></a></p>       
         </td>
-        <td width="33%" align="center">
+        <td width="50%" align="center">
             <h3><a href="https://github.com/davizuku/figonacci-phpactorial" target="blank">figonacci-phpactorial</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank" title="Go to source">
@@ -49,7 +49,9 @@
                 </a>
             </p>       
         </td>
-        <td width="33%" align="center">
+        </tr>
+        <tr border="none">
+        <td width="50%" align="center">
             <h3><a href="https://pingtranet.vercel.app/" target="blank">pingtranet</a></h3>
             <p align="center">
                 <a href="https://pingtranet.vercel.app/" target="blank" title="Go to source">
@@ -62,9 +64,7 @@
                 </a>
             </p>       
         </td>
-    </tr>
-    <tr border="none">
-        <td width="33%" align="center">
+        <td width="50%" align="center">
             <h3><a href="https://github.com/davizuku/bcn.gps.art" target="blank">bcn.gps.art</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/bcn.gps.art" target="blank" title="Go to source">
@@ -77,7 +77,9 @@
                 </a>
             </p>       
         </td>
-        <td width="33%" align="center">
+        </tr>
+        <tr border="none">
+        <td width="50%" align="center">
             <h3><a href="https://github.com/davizuku/family-tree" target="blank">family-tree</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/family-tree" target="blank" title="Go to source">
@@ -90,7 +92,7 @@
                 </a>
             </p>       
         </td>
-        <td width="33%" align="center">
+        <td width="50%" align="center">
             <h3><a href="https://github.com/davizuku/marc_in_da_house" target="blank">marc_in_da_house</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/marc_in_da_house" target="blank" title="Go to source">
@@ -103,7 +105,7 @@
                 </a>
             </p>       
         </td>
-    </tr>
+        </tr>
     </table>
 </div>
 <div id="education">
@@ -146,10 +148,6 @@
         <img height="200em" src="https://images.credly.com/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="Cloud Essentials badge"/>
         <img height="200em" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/twitter_thumb_201604_image.png" alt="Architecting badge/>
     </div>
-    <div id="duolingo">
-        <h4> Duolingo Stats </h4>
-        <img src="https://duolingo-stats-card.vercel.app/api?username=davizuku" alt="Duolingo Stats"/>
-    </div>
 </div>
 <div id="github-analytics">
     <h3> ⚙️ GitHub Analytics </h3>
@@ -172,4 +170,9 @@
       <img src="https://github.com/davizuku/davizuku/blob/output/github-contribution-grid-snake.svg"
            alt="snake" /></a>
     </div>
+</div>
+<div id="duolingo-stats">
+    <h3>Personal statistics</h3>
+    <h4>Duolingo</h4>
+    <img src="https://duolingo-stats-card.vercel.app/api?username=davizuku" alt="Duolingo Stats"/>
 </div>
