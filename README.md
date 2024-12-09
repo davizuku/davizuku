@@ -6,6 +6,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/david-alvarez-pons" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.interviewbit.com/profile/davizuku" target="blank"><img align="center" src="https://img.shields.io/badge/InterviewBit-orange.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDM1LjAzMyAzNS4wMzMiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnPiA8cGF0aCBkPSJNMTEuODExLDEwLjUzNWwtNi45ODMsNi45ODRsNi45ODMsNi45ODFjMC43OCwwLjc4MSwwLjc4LDIuMDQ4LDAsMi44MjhjLTAuMzkyLDAuMzkyLTAuOTAxLDAuNTg2LTEuNDE0LDAuNTg2IGMtMC41MTMsMC0xLjAyMi0wLjE5NC0xLjQxNC0wLjU4NmwtOC4zOTctOC4zOTZDMC4yMTEsMTguNTU4LDAsMTguMDQ5LDAsMTcuNTE5YzAtMC41MjksMC4yMTEtMS4wMzksMC41ODYtMS40MTRsOC4zOTctOC4zOTggYzAuNzgxLTAuNzgsMi4wNDctMC43OCwyLjgyOCwwQzEyLjU5MSw4LjQ4OCwxMi41OTEsOS43NTIsMTEuODExLDEwLjUzNXogTTM0LjQ0NywxNi4xMDRsLTguMzk2LTguMzk4IGMtMC43ODEtMC43OC0yLjA0Ny0wLjc4LTIuODI4LDBjLTAuNzgxLDAuNzgxLTAuNzgxLDIuMDQ3LDAsMi44MjhsNi45ODIsNi45ODRMMjMuMjIzLDI0LjVjLTAuNzgxLDAuNzgxLTAuNzgxLDIuMDQ4LDAsMi44MjggYzAuMzkyLDAuMzkyLDAuOTAyLDAuNTg2LDEuNDE0LDAuNTg2czEuMDIzLTAuMTk0LDEuNDE0LTAuNTg2bDguMzk2LTguMzk2YzAuMzc1LTAuMzc1LDAuNTg2LTAuODg0LDAuNTg2LTEuNDE0IEMzNS4wMzMsMTYuOTksMzQuODIyLDE2LjQ3OSwzNC40NDcsMTYuMTA0eiBNMjEuMDEyLDMuODMxYy0xLjA3Ni0wLjI3Ny0yLjE2MSwwLjM3My0yLjQzNSwxLjQ0MWwtNiwyMy40OTggYy0wLjI3MiwxLjA3LDAuMzczLDIuMTYsMS40NDIsMi40MzRjMC4xNjcsMC4wNDMsMC4zMzQsMC4wNjMsMC40OTcsMC4wNjNjMC44OTQsMCwxLjcwNi0wLjYwMywxLjkzNy0xLjUwNWw2LTIzLjQ5OCBDMjIuNzI3LDUuMTkzLDIyLjA4MSw0LjEwNCwyMS4wMTIsMy44MzF6Ii8+IDwvZz4gPC9nPgoNPC9zdmc+" alt="InterviewBit"/></a>
+<a href="https://www.hackerrank.com/profile/davizuku" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://www.kaggle.com/davidalvarezpons" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
 ### 👋 About me
@@ -70,8 +72,17 @@
     </tr>
 </table>
 
-<br>
+### 📚 Education Projects
 
+- ⏳ [aws-certified-ml-2025](https://github.com/davizuku/aws-certified-ml-2025)
+- [datascience-capstone](https://github.com/davizuku/datascience-capstone)
+- [nlp-python-udemy](https://github.com/davizuku/nlp-python-udemy)
+- [practical-nlp](https://github.com/davizuku/practical-nlp)
+- [tensorflow-udemy](https://github.com/davizuku/tensorflow-udemy)
+- [udemy-elasticsearch](https://github.com/davizuku/udemy-elasticsearch)
+- [skillshare-nodejs](https://github.com/davizuku/skillshare-nodejs)
+- [react-nextjs-tutorial](https://github.com/davizuku/react-nextjs-tutorial)
+- [go-microservices](https://github.com/davizuku/go-microservices)
 
 ### 👨‍💻 Tech / Platform 
 
@@ -101,14 +112,15 @@
 
 ### 🎖 &nbsp;My Badges 
 
-<h4>AWS Certificates</h4>
+#### AWS Certificates
 
 <p align="left">
   <img height="200em" src="https://images.credly.com/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="Cloud Essentials badge"/>
   <img height="200em" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/twitter_thumb_201604_image.png" alt="Architecting badge/>
 </p>
 
-<h4>Duolingo Stats</h4>
+
+#### Duolingo Stats
 
 <p align="left">
   <img src="https://duolingo-stats-card.vercel.app/api?username=davizuku" alt="Duolingo Stats"/>
