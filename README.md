@@ -83,7 +83,7 @@
             <h3><a href="https://github.com/davizuku/family-tree" target="blank">family-tree</a></h3>
             <p align="center">
                 <a href="https://github.com/davizuku/family-tree" target="blank" title="Go to source">
-                    <img height="100px" src="https://github.com/user-attachments/assets/eda9f299-b1ec-4d10-b51e-f00127e5283f" alt="family-tree"/> 
+                    <img height="100px" src="https://github.com/user-attachments/assets/1fc2bbe7-9fb6-4e08-8170-f5de4c4b17b4" alt="family-tree"/> 
                 </a>
             </p>
             <p align="center">
