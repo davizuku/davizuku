@@ -8,7 +8,7 @@
 <a href="https://www.interviewbit.com/profile/davizuku" target="blank"><img align="center" src="https://img.shields.io/badge/InterviewBit-orange.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDM1LjAzMyAzNS4wMzMiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnPiA8cGF0aCBkPSJNMTEuODExLDEwLjUzNWwtNi45ODMsNi45ODRsNi45ODMsNi45ODFjMC43OCwwLjc4MSwwLjc4LDIuMDQ4LDAsMi44MjhjLTAuMzkyLDAuMzkyLTAuOTAxLDAuNTg2LTEuNDE0LDAuNTg2IGMtMC41MTMsMC0xLjAyMi0wLjE5NC0xLjQxNC0wLjU4NmwtOC4zOTctOC4zOTZDMC4yMTEsMTguNTU4LDAsMTguMDQ5LDAsMTcuNTE5YzAtMC41MjksMC4yMTEtMS4wMzksMC41ODYtMS40MTRsOC4zOTctOC4zOTggYzAuNzgxLTAuNzgsMi4wNDctMC43OCwyLjgyOCwwQzEyLjU5MSw4LjQ4OCwxMi41OTEsOS43NTIsMTEuODExLDEwLjUzNXogTTM0LjQ0NywxNi4xMDRsLTguMzk2LTguMzk4IGMtMC43ODEtMC43OC0yLjA0Ny0wLjc4LTIuODI4LDBjLTAuNzgxLDAuNzgxLTAuNzgxLDIuMDQ3LDAsMi44MjhsNi45ODIsNi45ODRMMjMuMjIzLDI0LjVjLTAuNzgxLDAuNzgxLTAuNzgxLDIuMDQ4LDAsMi44MjggYzAuMzkyLDAuMzkyLDAuOTAyLDAuNTg2LDEuNDE0LDAuNTg2czEuMDIzLTAuMTk0LDEuNDE0LTAuNTg2bDguMzk2LTguMzk2YzAuMzc1LTAuMzc1LDAuNTg2LTAuODg0LDAuNTg2LTEuNDE0IEMzNS4wMzMsMTYuOTksMzQuODIyLDE2LjQ3OSwzNC40NDcsMTYuMTA0eiBNMjEuMDEyLDMuODMxYy0xLjA3Ni0wLjI3Ny0yLjE2MSwwLjM3My0yLjQzNSwxLjQ0MWwtNiwyMy40OTggYy0wLjI3MiwxLjA3LDAuMzczLDIuMTYsMS40NDIsMi40MzRjMC4xNjcsMC4wNDMsMC4zMzQsMC4wNjMsMC40OTcsMC4wNjNjMC44OTQsMCwxLjcwNi0wLjYwMywxLjkzNy0xLjUwNWw2LTIzLjQ5OCBDMjIuNzI3LDUuMTkzLDIyLjA4MSw0LjEwNCwyMS4wMTIsMy44MzF6Ii8+IDwvZz4gPC9nPgoNPC9zdmc+" alt="InterviewBit"/></a>
 </p>
 
-### About me
+### 👋 About me
 
 * Extensive experience in software engineering (13+ years)
 * Broad and deep vision in architecture and code data structures & algorithms
@@ -17,7 +17,63 @@
 * Leadership and mentoring
 * Constant learner
 
-### Tech / Platform 
+### 📋 Personal Projects
+
+<table align="left" width="100%" >
+    <tr border="none">
+        <td width="25%" align="center">
+            <p align="center">
+                <a href="https://github.com/davizuku/oregex" target="blank" title="Go to source">
+                    <img src="https://github.com/davizuku/oregex/blob/master/img/semi-oregex-1.png" alt="oregex-icon"/> 
+                </a>
+            </p>
+            <p align="center">
+                <a href="https://github.com/davizuku/oregex" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="oregex" /></a>
+            </p>       
+        </td>
+        <td width="25%" align="center">
+            <p align="center">
+                <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank" title="Go to source">
+                <img src="https://raw.githubusercontent.com/davizuku/figonacci-phpactorial/master/img/scenarios.png" alt="figonacci-phpactorial"/> 
+                </a>
+            </p>
+            <p align="center">
+                <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank">
+                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="figonacci-phpactorial" />
+                </a>
+            </p>       
+        </td>
+        <td width="25%" align="center">
+            <p align="center">
+                <a href="https://pingtranet.vercel.app/" target="blank" title="Go to source">
+                    <img src="https://pingtranet.vercel.app/img/logo-pingtranet.png" alt="pingbot"/> 
+                </a>
+            </p>
+            <p align="center">
+                <a href="https://pingtranet.vercel.app/" target="blank">
+                    <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge" alt="pingbot" />
+                </a>
+            </p>       
+        </td>
+        <td width="25%" align="center">
+            <p align="center">
+                <a href="https://github.com/davizuku/bcn.gps.art" target="blank" title="Go to source">
+                    <img src="https://github.com/davizuku/bcn.gps.art/blob/main/assets/img/icon.png?raw=true" alt="bcn.gps.art-icon"/> 
+                </a>
+            </p>
+            <p align="center">
+                <a href="https://github.com/davizuku/bcn.gps.art" target="blank" title="Go to source">
+                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="bcn.gps.art" />
+                </a>
+            </p>       
+        </td>
+    </tr>
+</table>
+
+<br>
+
+
+### 👨‍💻 Tech / Platform 
 
 #### 🔡 Programming Languages
 
@@ -28,7 +84,7 @@
 #### 📐 Frameworks 
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=slim,phpunit,nextjs,react,vue,sklearn,tensorflow,flask,jquery" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,sklearn,tensorflow,flask,jquery" />
 </p>
 
 #### 🏗️ Infrastructure
@@ -40,22 +96,7 @@
 #### 🧰 Tooling
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,atom,sublime,figma,latex,linux,mac" />
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/davizuku">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davizuku&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/davizuku">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davizuku&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davizuku&theme=auto&hide_border=true"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,atom,sublime,figma,latex,linux,apple" />
 </p>
 
 ### 🎖 &nbsp;My Badges 
@@ -73,10 +114,26 @@
   <img src="https://duolingo-stats-card.vercel.app/api?username=davizuku" alt="Duolingo Stats"/>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/davizuku">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davizuku&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/davizuku">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davizuku&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davizuku&theme=auto&hide_border=true"/>
+</p>
+
+
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
   <a href="https://github.com/davizuku/">
-  <img src="https://github.com/davizuku/davizuku/blob/readme/resources/img/grid-snake.svg"
+  <img src="https://github.com/davizuku/davizuku/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
