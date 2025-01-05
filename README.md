@@ -12,6 +12,8 @@
             <img src="https://img.shields.io/badge/InterviewBit-orange.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDM1LjAzMyAzNS4wMzMiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxnPiA8cGF0aCBkPSJNMTEuODExLDEwLjUzNWwtNi45ODMsNi45ODRsNi45ODMsNi45ODFjMC43OCwwLjc4MSwwLjc4LDIuMDQ4LDAsMi44MjhjLTAuMzkyLDAuMzkyLTAuOTAxLDAuNTg2LTEuNDE0LDAuNTg2IGMtMC41MTMsMC0xLjAyMi0wLjE5NC0xLjQxNC0wLjU4NmwtOC4zOTctOC4zOTZDMC4yMTEsMTguNTU4LDAsMTguMDQ5LDAsMTcuNTE5YzAtMC41MjksMC4yMTEtMS4wMzksMC41ODYtMS40MTRsOC4zOTctOC4zOTggYzAuNzgxLTAuNzgsMi4wNDctMC43OCwyLjgyOCwwQzEyLjU5MSw4LjQ4OCwxMi41OTEsOS43NTIsMTEuODExLDEwLjUzNXogTTM0LjQ0NywxNi4xMDRsLTguMzk2LTguMzk4IGMtMC43ODEtMC43OC0yLjA0Ny0wLjc4LTIuODI4LDBjLTAuNzgxLDAuNzgxLTAuNzgxLDIuMDQ3LDAsMi44MjhsNi45ODIsNi45ODRMMjMuMjIzLDI0LjVjLTAuNzgxLDAuNzgxLTAuNzgxLDIuMDQ4LDAsMi44MjggYzAuMzkyLDAuMzkyLDAuOTAyLDAuNTg2LDEuNDE0LDAuNTg2czEuMDIzLTAuMTk0LDEuNDE0LTAuNTg2bDguMzk2LTguMzk2YzAuMzc1LTAuMzc1LDAuNTg2LTAuODg0LDAuNTg2LTEuNDE0IEMzNS4wMzMsMTYuOTksMzQuODIyLDE2LjQ3OSwzNC40NDcsMTYuMTA0eiBNMjEuMDEyLDMuODMxYy0xLjA3Ni0wLjI3Ny0yLjE2MSwwLjM3My0yLjQzNSwxLjQ0MWwtNiwyMy40OTggYy0wLjI3MiwxLjA3LDAuMzczLDIuMTYsMS40NDIsMi40MzRjMC4xNjcsMC4wNDMsMC4zMzQsMC4wNjMsMC40OTcsMC4wNjNjMC44OTQsMCwxLjcwNi0wLjYwMywxLjkzNy0xLjUwNWw2LTIzLjQ5OCBDMjIuNzI3LDUuMTkzLDIyLjA4MSw0LjEwNCwyMS4wMTIsMy44MzF6Ii8+IDwvZz4gPC9nPgoNPC9zdmc+" alt="InterviewBit"></a>&nbsp;
         <a href="https://www.hackerrank.com/profile/davizuku" target="_blank">
             <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>&nbsp;
+        <a href="https://leetcode.com/u/davizuku/" target="_blank">
+            <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>&nbsp;
         <a href="https://www.kaggle.com/davidalvarezpons" target="_blank">
             <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
     </p>
@@ -161,6 +163,14 @@
     </p>
     <p align="center">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davizuku&theme=auto&hide_border=true"/>
+    </p>
+</div>
+<div id="leetcode-statistics">
+    <h3> ⌨️ LeetCode Statistics</h3>
+    <p align="center">
+        <a href="https://leetcode.com/u/davizuku/">
+        <img height="350em" src="https://leetcard.jacoblin.cool/davizuku?ext=heatmap"/>
+      </a>
     </p>
 </div>
 <div id="commit-snake">
