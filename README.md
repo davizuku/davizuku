@@ -34,29 +34,22 @@
     <table width="100%" >
         <tr border="none">
         <td width="50%" align="center">
-            <h3><a href="https://github.com/davizuku/oregex" target="blank">oregex</a></h3>
-            <p align="center"><a href="https://github.com/davizuku/oregex" target="blank" title="Go to source"><img src="https://github.com/davizuku/oregex/blob/master/img/semi-oregex-1.png" alt="oregex-icon"/> </a></p>
-            <p align="center"><a href="https://github.com/davizuku/oregex" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="oregex" /></a></p>       
-        </td>
-        <td width="50%" align="center">
-            <h3><a href="https://github.com/davizuku/figonacci-phpactorial" target="blank">figonacci-phpactorial</a></h3>
+            <h3><a href="https://davizuku.vercel.app/" target="blank">Portfolio</a></h3>
             <p align="center">
-                <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank" title="Go to source">
-                <img src="https://raw.githubusercontent.com/davizuku/figonacci-phpactorial/master/img/scenarios.png" alt="figonacci-phpactorial"/> 
+                <a href="https://davizuku.vercel.app/" target="blank" title="Go to site">
+                    <img height="100px" src="https://davizuku.vercel.app/img/portfolio.png" alt="portfolio icon"/> 
                 </a>
             </p>
             <p align="center">
-                <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank">
-                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="figonacci-phpactorial" />
+                <a href="https://davizuku.vercel.app/" target="blank">
+                    <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge" alt="portfolio" />
                 </a>
-            </p>       
+            </p>   
         </td>
-        </tr>
-        <tr border="none">
         <td width="50%" align="center">
             <h3><a href="https://pingtranet.vercel.app/" target="blank">pingtranet</a></h3>
             <p align="center">
-                <a href="https://pingtranet.vercel.app/" target="blank" title="Go to source">
+                <a href="https://pingtranet.vercel.app/" target="blank" title="Go to site">
                     <img height="100px" src="https://pingtranet.vercel.app/img/logo-pingtranet.png" alt="pingbot"/> 
                 </a>
             </p>
@@ -65,6 +58,13 @@
                     <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge" alt="pingbot" />
                 </a>
             </p>       
+        </td>
+        </tr>
+        <tr border="none">
+        <td width="50%" align="center">
+            <h3><a href="https://github.com/davizuku/oregex" target="blank">oregex</a></h3>
+            <p align="center"><a href="https://github.com/davizuku/oregex" target="blank" title="Go to source"><img src="https://github.com/davizuku/oregex/blob/master/img/semi-oregex-1.png" alt="oregex-icon"/> </a></p>
+            <p align="center"><a href="https://github.com/davizuku/oregex" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="oregex" /></a></p>       
         </td>
         <td width="50%" align="center">
             <h3><a href="https://github.com/davizuku/bcn.gps.art" target="blank">bcn.gps.art</a></h3>
@@ -77,7 +77,7 @@
                 <a href="https://github.com/davizuku/bcn.gps.art" target="blank" title="Go to source">
                     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="bcn.gps.art" />
                 </a>
-            </p>       
+            </p> 
         </td>
         </tr>
         <tr border="none">
@@ -95,17 +95,17 @@
             </p>       
         </td>
         <td width="50%" align="center">
-            <h3><a href="https://github.com/davizuku/marc_in_da_house" target="blank">marc_in_da_house</a></h3>
+            <h3><a href="https://github.com/davizuku/figonacci-phpactorial" target="blank">figonacci-phpactorial</a></h3>
             <p align="center">
-                <a href="https://github.com/davizuku/marc_in_da_house" target="blank" title="Go to source">
-                    <img height="100px" src="https://github.com/user-attachments/assets/50bcce16-3dd6-4a23-8eea-e29dc92e37c4" alt="marc in da house"/> 
+                <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank" title="Go to source">
+                <img src="https://raw.githubusercontent.com/davizuku/figonacci-phpactorial/master/img/scenarios.png" alt="figonacci-phpactorial"/> 
                 </a>
             </p>
             <p align="center">
-                <a href="https://github.com/davizuku/marc_in_da_house" target="blank" title="Go to source">
-                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="marc in da house" />
+                <a href="https://github.com/davizuku/figonacci-phpactorial" target="blank">
+                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="figonacci-phpactorial" />
                 </a>
-            </p>       
+            </p>    
         </td>
         </tr>
     </table>
