@@ -148,7 +148,9 @@
     <div id="certificates">
         <h4> AWS Certificates </h4>
         <img height="200em" src="https://images.credly.com/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="Cloud Essentials badge"/>
-        <img height="200em" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/twitter_thumb_201604_image.png" alt="Architecting badge/>
+        <img height="200em" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/twitter_thumb_201604_image.png" alt="Architecting badge"/>
+        <img height="200em" src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="Introduction to Generative AI badge"/>
+        <img height="200em" src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" alt="Machine Learning Specialty badge"/>
     </div>
 </div>
 <div id="github-analytics">
