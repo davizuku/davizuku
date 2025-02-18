@@ -113,7 +113,7 @@
 <div id="education">
     <h3> 📚 Education Projects </h3>
     <ul>
-        <li><a href="https://github.com/davizuku/aws-certified-ml-2025">⏳ aws-certified-ml-2025</a> </li>
+        <li><a href="https://github.com/davizuku/aws-certified-ml-2025">aws-certified-ml-2025</a> </li>
         <li><a href="https://github.com/davizuku/datascience-capstone">datascience-capstone</a> </li>
         <li><a href="https://github.com/davizuku/nlp-python-udemy">nlp-python-udemy</a> </li>
         <li><a href="https://github.com/davizuku/practical-nlp">practical-nlp</a> </li>
