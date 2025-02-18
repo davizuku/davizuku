@@ -44,6 +44,9 @@
                 <a href="https://davizuku.vercel.app/" target="blank">
                     <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge" alt="portfolio" />
                 </a>
+                <a href="https://github.com/davizuku/portfolio" target="blank" title="Go to source">
+                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
+                </a>
             </p>   
         </td>
         <td width="50%" align="center">
@@ -56,6 +59,9 @@
             <p align="center">
                 <a href="https://pingtranet.vercel.app/" target="blank">
                     <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge" alt="pingbot" />
+                </a>
+                <a href="https://github.com/davizuku/pingtranet" target="blank" title="Go to source">
+                    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
                 </a>
             </p>       
         </td>
